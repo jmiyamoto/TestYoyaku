@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">予約アプリ</string>
+    <string name="hello2">遷移してきたよ</string>
+    <string name="app_name">テストアプリだよ～</string>
+	<string name="Button1">"予約"</string>
+	<string name="RetunButton">戻る</string>
+</resources>
